@@ -1,0 +1,13 @@
+Pseudocode
+
+START
+consumption = empty list
+FOR day from 1 to 7
+    INPUT daily_units
+    ADD daily_units to consumption
+END FOR
+weekly_total = sum of consumption
+average_daily = weekly_total / 7
+DISPLAY weekly_total
+DISPLAY average_daily
+STOP
