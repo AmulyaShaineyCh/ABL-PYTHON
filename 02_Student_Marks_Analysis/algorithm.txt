@@ -1,0 +1,11 @@
+Algorithm
+
+1. Start.
+2. Read the number of students and subjects.
+3. Create an empty list to store student marks.
+4. For each student, read marks for every subject and store them in a row list.
+5. Add each row to the marks matrix.
+6. For each student, calculate the total of their marks.
+7. Calculate average marks by dividing the total by the number of subjects.
+8. Display the student's total and average.
+9. Stop.
