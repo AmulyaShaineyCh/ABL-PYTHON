@@ -1,0 +1,19 @@
+Pseudocode
+
+START
+INPUT number_of_students, number_of_subjects
+marks_matrix = empty list
+FOR each student
+    student_marks = empty list
+    FOR each subject
+        INPUT mark
+        ADD mark to student_marks
+    END FOR
+    ADD student_marks to marks_matrix
+END FOR
+FOR each student_marks in marks_matrix
+    total = sum of student_marks
+    average = total / number_of_subjects
+    DISPLAY total and average
+END FOR
+STOP
