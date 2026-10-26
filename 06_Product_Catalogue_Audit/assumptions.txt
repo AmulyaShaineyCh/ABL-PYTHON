@@ -1,0 +1,6 @@
+Assumptions
+
+1. Each product tuple contains a name, unit price and quantity in stock.
+2. Prices and quantities are numeric and non-negative.
+3. Stock value is calculated as unit price multiplied by quantity.
+4. The catalogue contains the sample products defined in main.py.
