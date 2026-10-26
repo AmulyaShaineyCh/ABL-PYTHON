@@ -1,0 +1,6 @@
+Assumptions
+
+1. Before and after readings use the same unit and refer to comparable periods.
+2. The values entered are non-negative.
+3. Percentage savings is calculated relative to the before value, which must be greater than zero.
+4. The comparison is an educational calculation.
