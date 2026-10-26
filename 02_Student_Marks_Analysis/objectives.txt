@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise variables, input/output, numeric data types and type conversion.
+2. Use nested loops to enter and process a marks matrix.
+3. Calculate total and average marks for each student.
+4. Present the results clearly.
