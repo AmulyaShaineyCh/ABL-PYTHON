@@ -1,0 +1,3 @@
+Conclusion
+
+The program uses arithmetic and conditional statements to calculate excess speed and select an illustrative penalty tier. The amounts are for demonstration only and should not be treated as official traffic rules.
