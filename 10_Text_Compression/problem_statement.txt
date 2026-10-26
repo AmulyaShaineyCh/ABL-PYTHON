@@ -1,0 +1,3 @@
+Problem Statement
+
+Develop a Python program that compresses a string by representing each consecutive run of the same character as the character followed by its count. For example, aaabbcccc becomes a3b2c4.
