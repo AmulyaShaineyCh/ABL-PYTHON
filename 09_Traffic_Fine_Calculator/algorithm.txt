@@ -1,0 +1,9 @@
+Algorithm
+
+1. Start.
+2. Input vehicle speed and speed limit.
+3. Calculate excess speed as vehicle speed minus the limit.
+4. If excess speed is zero or less, display that no fine applies in this example.
+5. Otherwise, compare excess speed with the fine tiers defined in the program.
+6. Select and display the corresponding illustrative fine.
+7. Stop.
