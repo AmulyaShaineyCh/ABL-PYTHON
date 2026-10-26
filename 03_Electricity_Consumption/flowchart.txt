@@ -1,0 +1,15 @@
+FLOWCHART (text version)
+
+[Start]
+   |
+[Create empty consumption list]
+   |
+[Input daily reading for each of 7 days]
+   |
+[Calculate weekly total]
+   |
+[Calculate average = total / 7]
+   |
+[Display total and average]
+   |
+[Stop]
