@@ -1,0 +1,10 @@
+Algorithm
+
+1. Start.
+2. Input a password.
+3. Set flags for required character types to false.
+4. Examine each character in the password.
+5. Update the appropriate flags when an uppercase letter or digit is found.
+6. Check the password length and required flags.
+7. Display whether the password meets the policy.
+8. Stop.
