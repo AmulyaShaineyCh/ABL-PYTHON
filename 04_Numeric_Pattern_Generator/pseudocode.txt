@@ -1,0 +1,11 @@
+Pseudocode
+
+START
+INPUT number_of_rows
+FOR each row from 1 to number_of_rows
+    FOR each position required in the current row
+        DISPLAY the required number without ending the line
+    END FOR
+    MOVE to the next line
+END FOR
+STOP
