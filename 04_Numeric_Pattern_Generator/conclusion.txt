@@ -1,0 +1,3 @@
+Conclusion
+
+The program uses nested loops to generate a numeric pattern. It demonstrates repetition, loop control and formatted output with basic Python.
