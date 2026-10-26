@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise numeric input and type conversion.
+2. Use arithmetic to calculate excess speed.
+3. Apply conditional statements to select an illustrative fine tier.
+4. Display the result clearly.
