@@ -1,0 +1,6 @@
+Assumptions
+
+1. The input is treated as a string.
+2. Characters are grouped only when they occur consecutively.
+3. Each run is represented by its character followed by the run length, as implemented in main.py.
+4. This simple representation is a classroom exercise and may not shorten every possible input.
