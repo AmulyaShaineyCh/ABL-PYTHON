@@ -1,0 +1,18 @@
+Test Case 1 — Typical input
+Inputs: 2, 3, 80, 70, 90, 60, 75, 85
+Expected output:
+Enter number of students: 2
+Enter number of subjects: 3
+Enter marks for student 1
+Subject 1: 80
+Subject 2: 70
+Subject 3: 90
+Enter marks for student 2
+Subject 1: 60
+Subject 2: 75
+Subject 3: 85
+Student 1 total: 240 average: 80.0
+Student 2 total: 220 average: 73.33333333333333
+
+Test Case 2 — Boundary/alternate case
+Run with a different valid input and compare the result.
