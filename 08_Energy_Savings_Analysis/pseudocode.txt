@@ -1,0 +1,14 @@
+Pseudocode
+
+START
+INPUT before_value
+INPUT after_value
+saved = before_value - after_value
+DISPLAY saved
+IF before_value > 0
+    percentage = saved / before_value * 100
+    DISPLAY percentage
+ELSE
+    DISPLAY percentage cannot be calculated
+END IF
+STOP
