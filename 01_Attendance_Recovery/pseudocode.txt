@@ -1,0 +1,24 @@
+BEGIN
+    INPUT total_classes
+    INPUT attended_classes
+
+    IF total_classes <= 0 THEN
+        DISPLAY invalid total classes
+    ELSE IF attended_classes < 0 OR attended_classes > total_classes THEN
+        DISPLAY invalid attended classes
+    ELSE
+        attendance = attended_classes / total_classes * 100
+        DISPLAY attendance
+
+        IF attendance >= 75 THEN
+            DISPLAY 0 additional classes needed
+        ELSE
+            extra_classes = 0
+            WHILE ((attended_classes + extra_classes) /
+                   (total_classes + extra_classes) * 100) < 75
+                extra_classes = extra_classes + 1
+            END WHILE
+            DISPLAY extra_classes
+        END IF
+    END IF
+END
