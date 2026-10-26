@@ -1,0 +1,3 @@
+Conclusion
+
+The program stores seven daily electricity readings and uses basic list and loop operations to calculate weekly consumption and average daily usage.
