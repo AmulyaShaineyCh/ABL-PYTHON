@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise strings, loops, conditionals and Boolean variables.
+2. Check password length.
+3. Scan characters to identify required character types.
+4. Display whether the password meets the stated rules.
