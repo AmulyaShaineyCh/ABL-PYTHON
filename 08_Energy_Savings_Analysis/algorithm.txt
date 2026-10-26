@@ -1,0 +1,9 @@
+Algorithm
+
+1. Start.
+2. Input energy consumption before the change.
+3. Input energy consumption after the change.
+4. Calculate energy saved by subtracting the after value from the before value.
+5. If the before value is greater than zero, calculate percentage saved relative to the before value.
+6. Display the before value, after value, energy saved and percentage saved.
+7. Stop.
