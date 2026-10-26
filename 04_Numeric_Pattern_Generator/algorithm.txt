@@ -1,0 +1,8 @@
+Algorithm
+
+1. Start.
+2. Input the number of rows.
+3. Use an outer loop to process each row.
+4. For each row, use an inner loop to print the required numbers for that row.
+5. Move to a new line after each row.
+6. Stop.
