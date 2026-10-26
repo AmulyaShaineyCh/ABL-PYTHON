@@ -1,0 +1,38 @@
+FLOWCHART (text version)
+
+[Start]
+   |
+[Input total_classes and attended_classes]
+   |
+{total_classes <= 0?} --Yes--> [Display invalid total classes] --> [End]
+   |
+   No
+   v
+{attended_classes < 0 OR attended_classes > total_classes?}
+   |Yes
+   v
+[Display invalid attended classes] --> [End]
+   |
+   No
+   v
+[Calculate and display attendance percentage]
+   |
+{attendance >= 75?}
+   |Yes                         |No
+   v                            v
+[Display 0 extra classes]   [Set extra_classes = 0]
+   |                            |
+   |                       {Projected attendance < 75?}
+   |                            |Yes
+   |                            v
+   |                     [extra_classes = extra_classes + 1]
+   |                            |
+   |                     [Check projected attendance again]
+   |                            |
+   |                       No (target reached)
+   |                            v
+   |                     [Display extra_classes]
+   |                            |
+   +----------------------------+
+                |
+              [End]
