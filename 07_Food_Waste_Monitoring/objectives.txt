@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise list operations and loops.
+2. Collect daily food-waste measurements.
+3. Calculate the total and average waste.
+4. Use a conditional statement to show a review message.
