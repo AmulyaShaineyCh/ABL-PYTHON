@@ -1,0 +1,21 @@
+FLOWCHART (text version)
+
+[Start]
+   |
+[Define product tuple catalogue]
+   |
+[Set total value to zero]
+   |
+[Process each product]
+   |
+[Calculate price x quantity]
+   |
+[Display product value and add to total]
+   |
+[More products?] -- Yes --> [Process next product]
+   |
+   No
+   |
+[Display catalogue total]
+   |
+[Stop]
