@@ -1,0 +1,3 @@
+Conclusion
+
+The program demonstrates string processing, loops, conditional statements and flags to check whether a password meets a simple set of rules.
