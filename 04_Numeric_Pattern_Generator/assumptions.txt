@@ -1,0 +1,5 @@
+Assumptions
+
+1. The user enters a positive integer for the number of rows.
+2. The pattern is generated using basic loops and print statements.
+3. The program follows the pattern defined in main.py.
