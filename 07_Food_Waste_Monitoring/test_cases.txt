@@ -1,0 +1,8 @@
+Sample test case
+Input values: 2, 1.5, 2, 1, 1.5
+Expected output:
+Total food waste: 8.0 kg
+Daily average waste: 1.6 kg
+Good work: keep monitoring food waste.
+
+Alternate test: try another valid input and verify the totals and average/percentage.
