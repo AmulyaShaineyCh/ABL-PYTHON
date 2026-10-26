@@ -1,0 +1,21 @@
+Pseudocode
+
+START
+INPUT text
+SET compressed = empty string
+IF text is not empty
+    SET current_character = first character
+    SET count = 1
+    FOR each remaining character
+        IF character equals current_character
+            INCREASE count
+        ELSE
+            APPEND current_character and count to compressed
+            SET current_character = character
+            SET count = 1
+        END IF
+    END FOR
+    APPEND final character and count to compressed
+END IF
+DISPLAY compressed
+STOP
