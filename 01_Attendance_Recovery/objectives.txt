@@ -1,0 +1,6 @@
+Objectives:
+1. Read the total number of classes held and classes attended.
+2. Validate the entered values.
+3. Calculate and display the current attendance percentage.
+4. Check whether attendance is already at least 75%.
+5. If it is below 75%, calculate the minimum number of consecutive classes to attend to reach 75%.
