@@ -1,0 +1,9 @@
+Algorithm
+
+1. Start.
+2. Create an empty list for daily electricity consumption.
+3. Repeat seven times: input the consumption value and add it to the list.
+4. Calculate the sum of all seven readings.
+5. Calculate the average by dividing the total by seven.
+6. Display the readings, weekly total and daily average.
+7. Stop.
