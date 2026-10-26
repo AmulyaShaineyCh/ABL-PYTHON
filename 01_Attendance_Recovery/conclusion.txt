@@ -1,0 +1,2 @@
+Conclusion:
+The program calculates the student's current attendance percentage and determines the minimum number of consecutive classes needed to reach 75% attendance. It also validates invalid inputs. The solution uses basic input/output, arithmetic operators, conditional statements, and a while loop from the prescribed syllabus.
