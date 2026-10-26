@@ -1,0 +1,15 @@
+FLOWCHART (text version)
+
+[Start]
+   |
+[Input number of students and subjects]
+   |
+[Enter marks using nested loops]
+   |
+[Store marks in matrix]
+   |
+[For each student: calculate total and average]
+   |
+[Display results]
+   |
+[Stop]
