@@ -1,0 +1,3 @@
+Conclusion
+
+The program demonstrates character-by-character string processing and counting consecutive runs to create a simple compressed representation.
