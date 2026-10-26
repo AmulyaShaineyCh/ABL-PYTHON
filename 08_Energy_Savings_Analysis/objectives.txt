@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise input/output and numeric conversion.
+2. Compare two energy-consumption values.
+3. Calculate absolute and percentage savings.
+4. Display the result clearly.
