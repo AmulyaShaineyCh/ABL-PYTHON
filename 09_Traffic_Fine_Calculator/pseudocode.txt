@@ -1,0 +1,15 @@
+Pseudocode
+
+START
+INPUT vehicle_speed, speed_limit
+excess = vehicle_speed - speed_limit
+IF excess <= 0
+    DISPLAY no fine in this example
+ELSE IF excess is within first tier
+    DISPLAY first illustrative fine
+ELSE IF excess is within second tier
+    DISPLAY second illustrative fine
+ELSE
+    DISPLAY highest illustrative fine
+END IF
+STOP
