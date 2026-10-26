@@ -1,0 +1,3 @@
+Conclusion
+
+The program records food-waste measurements and uses list processing, arithmetic and a condition to summarise waste and flag when review may be useful.
