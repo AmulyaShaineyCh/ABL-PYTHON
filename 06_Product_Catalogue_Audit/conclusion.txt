@@ -1,0 +1,3 @@
+Conclusion
+
+The program uses tuples to organise product data and performs arithmetic calculations to estimate the value of the available stock.
