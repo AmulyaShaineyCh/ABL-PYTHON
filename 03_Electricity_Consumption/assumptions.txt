@@ -1,0 +1,6 @@
+Assumptions
+
+1. One numeric consumption value is entered for each of the seven days.
+2. Consumption values are non-negative and use the same unit, such as kWh.
+3. The average is the weekly total divided by seven.
+4. The program is for educational tracking, not billing.
