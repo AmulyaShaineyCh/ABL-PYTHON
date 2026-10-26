@@ -1,0 +1,11 @@
+Algorithm
+
+1. Start.
+2. Define the product catalogue as a tuple of product tuples.
+3. Set the total catalogue value to zero.
+4. For each product, read its name, unit price and stock quantity.
+5. Calculate product stock value as price multiplied by quantity.
+6. Display the product details and stock value.
+7. Add the product value to the catalogue total.
+8. Display the total catalogue value.
+9. Stop.
