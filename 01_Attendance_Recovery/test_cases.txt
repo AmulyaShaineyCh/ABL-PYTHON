@@ -1,6 +1,7 @@
-Test Cases
+TEST CASES
+Case Study 12: Attendance Recovery Computation
 
-Test Case 1
+Test Case 1: Attendance below 75%
 Input:
 Total classes held: 20
 Classes attended: 12
@@ -8,7 +9,7 @@ Expected output:
 Current attendance: 60.0 %
 Additional consecutive classes to attend: 12
 
-Test Case 2
+Test Case 2: Attendance already above 75%
 Input:
 Total classes held: 20
 Classes attended: 16
@@ -17,16 +18,39 @@ Current attendance: 80.0 %
 You have reached 75% attendance.
 Additional consecutive classes needed: 0
 
-Test Case 3
+Test Case 3: Zero total classes
 Input:
 Total classes held: 0
 Classes attended: 0
 Expected output:
 Invalid total classes. Enter a number greater than 0.
 
-Test Case 4
+Test Case 4: Attended classes greater than total classes
 Input:
 Total classes held: 20
 Classes attended: 21
 Expected output:
 Invalid attended classes.
+
+Test Case 5: Negative total classes
+Input:
+Total classes held: -5
+Classes attended: 0
+Expected output:
+Invalid total classes. Enter a number greater than 0.
+
+Test Case 6: Negative attended classes
+Input:
+Total classes held: 20
+Classes attended: -1
+Expected output:
+Invalid attended classes.
+
+Test Case 7: Attendance exactly 75%
+Input:
+Total classes held: 20
+Classes attended: 15
+Expected output:
+Current attendance: 75.0 %
+You have reached 75% attendance.
+Additional consecutive classes needed: 0
