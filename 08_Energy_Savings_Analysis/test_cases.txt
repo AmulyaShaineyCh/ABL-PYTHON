@@ -1,0 +1,7 @@
+Sample test case
+Input values: 100, 75
+Expected output:
+Energy saved: 25.0 units
+Percentage saved: 25.0 %
+
+Alternate test: try another valid input and verify the totals and average/percentage.
