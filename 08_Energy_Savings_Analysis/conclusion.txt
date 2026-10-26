@@ -1,0 +1,3 @@
+Conclusion
+
+The program compares energy consumption before and after a change and calculates the difference and percentage saved using basic arithmetic and conditional logic.
