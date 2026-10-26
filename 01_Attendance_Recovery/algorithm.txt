@@ -1,0 +1,13 @@
+Algorithm:
+1. Start.
+2. Input total classes held.
+3. Input classes attended.
+4. If total classes held is less than or equal to zero, display an error.
+5. Otherwise, if classes attended is less than zero or greater than total classes held, display an error.
+6. Otherwise, calculate attendance = attended classes / total classes held * 100.
+7. Display the current attendance.
+8. If attendance is at least 75%, display that the target is reached and additional classes needed is zero.
+9. Otherwise, set extra_classes to zero.
+10. While the attendance after adding extra_classes to both attended and total classes is below 75%, increase extra_classes by one.
+11. Display extra_classes.
+12. Stop.
