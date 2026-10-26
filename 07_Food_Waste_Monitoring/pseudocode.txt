@@ -1,0 +1,17 @@
+Pseudocode
+
+START
+waste_values = empty list
+FOR day from 1 to 5
+    INPUT waste in kilograms
+    ADD waste to waste_values
+END FOR
+total_waste = sum of waste_values
+average_waste = total_waste / 5
+DISPLAY total_waste and average_waste
+IF total_waste exceeds the threshold
+    DISPLAY review message
+ELSE
+    DISPLAY normal message
+END IF
+STOP
