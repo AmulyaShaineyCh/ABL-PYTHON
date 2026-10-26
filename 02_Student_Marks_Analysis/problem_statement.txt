@@ -1,0 +1,3 @@
+Problem Statement
+
+Develop a Python program to accept marks for multiple students across multiple subjects using a nested list (matrix). Calculate and display each student's total marks and average marks.
