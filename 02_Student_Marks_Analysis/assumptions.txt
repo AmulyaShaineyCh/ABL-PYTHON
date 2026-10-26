@@ -1,0 +1,6 @@
+Assumptions
+
+1. The number of students and subjects entered must be positive integers.
+2. Marks are entered as numbers for each student and subject.
+3. The average is calculated using the number of subjects entered.
+4. This is a basic classroom program; grading rules are not included.
