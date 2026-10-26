@@ -1,0 +1,16 @@
+Pseudocode
+
+START
+INPUT password
+SET uppercase_found = false
+SET digit_found = false
+FOR each character in password
+    IF character is uppercase, set uppercase_found = true
+    IF character is a digit, set digit_found = true
+END FOR
+IF length and required flags satisfy policy
+    DISPLAY valid password
+ELSE
+    DISPLAY password does not meet policy
+END IF
+STOP
