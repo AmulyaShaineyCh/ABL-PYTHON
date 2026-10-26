@@ -1,0 +1,5 @@
+Assumptions
+
+1. The password is entered as a string.
+2. The program applies the policy described in main.py, including a minimum length of eight characters and the required uppercase and digit checks.
+3. This is a classroom demonstration and is not a complete security assessment.
