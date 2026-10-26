@@ -1,0 +1,6 @@
+Assumptions
+
+1. Speed and speed limit are entered in the same unit.
+2. Both inputs are non-negative numbers and the speed limit is positive.
+3. Fine amounts are illustrative values for this classroom exercise, not official legal penalties.
+4. The program's tier conditions in main.py determine the displayed amount.
