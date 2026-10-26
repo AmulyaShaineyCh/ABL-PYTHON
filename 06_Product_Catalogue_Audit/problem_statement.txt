@@ -1,0 +1,3 @@
+Problem Statement
+
+Use a tuple-based product catalogue to store product names, prices and stock quantities, then calculate the total stock value for each product and/or the catalogue.
