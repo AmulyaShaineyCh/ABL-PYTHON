@@ -1,0 +1,6 @@
+Assumptions
+
+1. One non-negative food-waste value in kilograms is entered for each of five days.
+2. All values use the same unit.
+3. The program uses the threshold stated in main.py for its review message.
+4. The result is an educational estimate, not a formal audit.
