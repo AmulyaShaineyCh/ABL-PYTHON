@@ -1,0 +1,15 @@
+Test Case 1 — Typical input
+Inputs: 5, 6, 4, 7, 8, 3, 2
+Expected output:
+Enter units for Monday: 5
+Enter units for Tuesday: 6
+Enter units for Wednesday: 4
+Enter units for Thursday: 7
+Enter units for Friday: 8
+Enter units for Saturday: 3
+Enter units for Sunday: 2
+Weekly consumption: 35.0 units
+Daily average: 5.0 units
+
+Test Case 2 — Boundary/alternate case
+Run with a different valid input and compare the result.
