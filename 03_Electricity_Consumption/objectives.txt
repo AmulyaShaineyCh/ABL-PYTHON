@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise input/output and type conversion.
+2. Store daily readings in a list.
+3. Use a loop to collect and process weekly readings.
+4. Calculate weekly total and average consumption.
