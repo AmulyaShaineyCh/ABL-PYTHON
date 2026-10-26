@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise tuples and tuple indexing.
+2. Read product details from a tuple structure.
+3. Calculate stock value using price and quantity.
+4. Display product information and calculated values.
