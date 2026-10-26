@@ -1,0 +1,5 @@
+Objectives
+
+1. Practise loops and integer input.
+2. Understand how nested loops generate rows and columns.
+3. Display a numeric pattern in a structured format.
