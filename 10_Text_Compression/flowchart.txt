@@ -1,0 +1,23 @@
+FLOWCHART (text version)
+
+[Start]
+   |
+[Input text]
+   |
+[Initialise current character and count]
+   |
+[Read next character]
+   |
+[Same as current character?]
+  / \
+Yes  No
+ |    |
+[Increase count] [Append character and count; start new run]
+  \  /
+[More characters?] -- Yes --> [Read next character]
+   |
+   No
+   |
+[Append final run and display result]
+   |
+[Stop]
