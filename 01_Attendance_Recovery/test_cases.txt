@@ -1,0 +1,32 @@
+Test Cases
+
+Test Case 1
+Input:
+Total classes held: 20
+Classes attended: 12
+Expected output:
+Current attendance: 60.0 %
+Additional consecutive classes to attend: 12
+
+Test Case 2
+Input:
+Total classes held: 20
+Classes attended: 16
+Expected output:
+Current attendance: 80.0 %
+You have reached 75% attendance.
+Additional consecutive classes needed: 0
+
+Test Case 3
+Input:
+Total classes held: 0
+Classes attended: 0
+Expected output:
+Invalid total classes. Enter a number greater than 0.
+
+Test Case 4
+Input:
+Total classes held: 20
+Classes attended: 21
+Expected output:
+Invalid attended classes.
