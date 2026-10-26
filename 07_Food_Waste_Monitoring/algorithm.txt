@@ -1,0 +1,10 @@
+Algorithm
+
+1. Start.
+2. Create an empty list for daily food waste.
+3. Input and store food-waste values for five days.
+4. Calculate the total waste.
+5. Calculate average daily waste by dividing the total by five.
+6. Display the total and average.
+7. If the total exceeds the program's threshold, display a message to review food-waste practices; otherwise display the alternative message.
+8. Stop.
