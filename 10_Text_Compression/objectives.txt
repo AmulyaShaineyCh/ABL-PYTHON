@@ -1,0 +1,6 @@
+Objectives
+
+1. Practise string input and iteration.
+2. Compare consecutive characters in a string.
+3. Count repeated characters in a run.
+4. Build and display a compressed string using basic Python operations.
