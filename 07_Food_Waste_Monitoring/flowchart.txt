@@ -1,0 +1,17 @@
+FLOWCHART (text version)
+
+[Start]
+   |
+[Input waste for each of 5 days]
+   |
+[Calculate total and average]
+   |
+[Display total and average]
+   |
+[Total exceeds threshold?]
+  / \
+Yes  No
+ |    |
+[Review] [Normal message]
+  \  /
+  [Stop]
