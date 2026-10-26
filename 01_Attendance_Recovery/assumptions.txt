@@ -1,0 +1,6 @@
+Assumptions:
+1. Total classes held must be greater than zero.
+2. Classes attended must be between zero and total classes held, inclusive.
+3. The student attends every future class counted by the program.
+4. The required attendance threshold is 75%.
+5. Future classes increase both total classes held and classes attended by one each.
