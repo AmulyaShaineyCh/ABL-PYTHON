@@ -1,5 +1,5 @@
 Objectives:
-1. Read the total number of classes held and classes attended.
+1. Read the total number of classes held and classes attended by students
 2. Validate the entered values.
 3. Calculate and display the current attendance percentage.
 4. Check whether attendance is already at least 75%.
