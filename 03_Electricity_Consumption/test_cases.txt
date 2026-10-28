@@ -10,6 +10,3 @@ Enter units for Saturday: 3
 Enter units for Sunday: 2
 Weekly consumption: 35.0 units
 Daily average: 5.0 units
-
-Test Case 2 — Boundary/alternate case
-Run with a different valid input and compare the result.
