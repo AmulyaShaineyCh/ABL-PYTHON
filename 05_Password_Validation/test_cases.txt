@@ -3,6 +3,3 @@ Inputs: Study2026
 Expected output:
 Enter a password: Study2026
 Password meets the basic policy.
-
-Test Case 2 — Boundary/alternate case
-Run with a different valid input and compare the result.
