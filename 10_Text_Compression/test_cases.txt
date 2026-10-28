@@ -2,5 +2,3 @@ Sample test case
 Input values: aaabbcccc
 Expected output:
 Compressed text: a3b2c4
-
-Alternate test: try a different valid input and compare the result.
