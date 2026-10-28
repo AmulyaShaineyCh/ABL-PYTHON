@@ -14,5 +14,3 @@ Subject 3: 85
 Student 1 total: 240 average: 80.0
 Student 2 total: 220 average: 73.33333333333333
 
-Test Case 2 — Boundary/alternate case
-Run with a different valid input and compare the result.
