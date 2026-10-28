@@ -3,5 +3,3 @@ Input values: 78, 60
 Expected output:
 Speed exceeded by: 18 km/h
 Illustrative fine amount: Rs. 1000
-
-Alternate test: try a different valid input and compare the result.
