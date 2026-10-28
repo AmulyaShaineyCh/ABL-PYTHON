@@ -7,5 +7,3 @@ Enter number of rows (1 to 9): 4
 1 2 3 
 1 2 3 4 
 
-Test Case 2 — Boundary/alternate case
-Run with a different valid input and compare the result.
