@@ -1,4 +1,4 @@
-# Student Marks Matrix Analysis
+# Student Marks Matrix Analysis.
 
 Case study program written using introductory Python concepts from Units I–III only.
 
