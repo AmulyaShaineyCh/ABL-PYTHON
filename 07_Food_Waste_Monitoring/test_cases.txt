@@ -5,4 +5,3 @@ Total food waste: 8.0 kg
 Daily average waste: 1.6 kg
 Good work: keep monitoring food waste.
 
-Alternate test: try another valid input and verify the totals and average/percentage.
