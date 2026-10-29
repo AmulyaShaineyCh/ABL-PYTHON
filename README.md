@@ -14,7 +14,6 @@ This repository contains 10 Python case studies for the Python Programming cours
 9. [Traffic Violation Penalty Calculator](09_Traffic_Fine_Calculator/README.md) — Case Study 21
 10. [Text Compression Using Character Runs](10_Text_Compression/README.md) — Case Study 35
 
-Each project folder includes `main.py`, `test_cases.txt`, a README, and a terminal-style SVG showing sample output. The SVGs are generated sample-output displays, not screenshots captured from the TinyFish browser; that browser run timed out.
 
 ## Syllabus restriction
 Programs use introductory concepts from Units I–III: variables, data types, input/output, operators, conditional statements, loops, strings, lists, nested lists, tuples, tuple operations, unpacking, and sets where appropriate.
