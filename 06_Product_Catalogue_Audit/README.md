@@ -12,7 +12,7 @@ Use a tuple-based product catalogue to display each product's price, quantity, a
 ## Assumptions
 - The catalogue is already defined in the program.
 - Each product entry contains a name, price, and quantity.
-- Stock value is calculated as price multiplied by quantity.
+- Stock value is calculated as price multiplied by quantity
 
 ## Algorithm
 1. Start and define the product catalogue as a tuple of product tuples.
