@@ -1,7 +1,7 @@
 # Case Study 21: Traffic Violation Penalty Calculator
 
 ## Problem Statement
-Compare a vehicle's speed with the speed limit and calculate an illustrative fine when the vehicle exceeds the limit.
+Compare a vehicle's speed with the speed limit and calculate an illustrative fine when the vehicle exceeds the limit
 
 ## Objectives
 1. Read the vehicle speed and speed limit.
