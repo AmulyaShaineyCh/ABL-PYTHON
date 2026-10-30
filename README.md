@@ -1,4 +1,7 @@
 # Python Activity-Based Learning
+NAME: CHEVETI AMULYA SHAINEY
+ROLL NUMBER: 26001281
+BRANCH:CSM-7
 
 This repository contains 10 Python case studies for the Python Programming course.
 
@@ -14,6 +17,3 @@ This repository contains 10 Python case studies for the Python Programming cours
 9. [Traffic Violation Penalty Calculator](09_Traffic_Fine_Calculator/README.md) — Case Study 21
 10. [Text Compression Using Character Runs](10_Text_Compression/README.md) — Case Study 35
 
-
-## Syllabus restriction
-Programs use introductory concepts from Units I–III: variables, data types, input/output, operators, conditional statements, loops, strings, lists, nested lists, tuples, tuple operations, unpacking, and sets where appropriate.
