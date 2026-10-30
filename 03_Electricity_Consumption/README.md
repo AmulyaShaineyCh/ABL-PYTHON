@@ -7,7 +7,7 @@ Record electricity consumption in units for each day of a week, then calculate t
 1. Read electricity usage for all seven days.
 2. Add the daily usage to calculate weekly consumption.
 3. Calculate the average daily consumption.
-4. Display both results.
+4. Display both results
 
 ## Assumptions
 - The user enters a numeric consumption value for each day.
