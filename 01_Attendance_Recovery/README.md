@@ -1,7 +1,7 @@
 # Case Study 12: Attendance Recovery Computation
 
 ## Problem Statement
-Calculate a student's current attendance percentage from the total classes held and classes attended. If attendance is below 75%, find the minimum number of consecutive future classes the student must attend to reach at least 75%.
+Calculate a student's current attendance percentage from the total classes held and classes attended. If attendance is below 75%, find the minimum number of consecutive future classes the student must attend to reach at least 75%
 
 ## Objectives
 1. Read and validate the total classes held and classes attended.
