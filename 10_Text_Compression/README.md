@@ -11,7 +11,7 @@ Compress a non-empty string by representing each consecutive run of the same cha
 
 ## Assumptions
 - The input is intended to contain letters, as suggested by the program prompt.
-- The program processes the entered characters as-is; it does not validate that every character is a letter.
+- The program processes the entered characters as-is; it does not validate that every character is a letter
 - Each run is encoded as the character followed by its count.
 
 ## Algorithm
