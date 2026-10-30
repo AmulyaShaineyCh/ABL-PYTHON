@@ -5,7 +5,7 @@ Read marks for multiple students across multiple subjects, store the marks in a 
 
 ## Objectives
 1. Read the number of students and subjects.
-2. Accept and validate each mark from 0 to 100.
+2. Accept and validate each mark from 0 to 100
 3. Store marks in a nested list.
 4. Calculate and display each student's total and average.
 
