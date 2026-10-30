@@ -1,3 +1,4 @@
 Conclusion
 
-The program demonstrates how a nested list and nested loops can be used to store and analyse student marks. It calculates each student's total and average using basic Python concepts.
+The program demonstrates how a nested list and nested loops can be used to store and analyse student marks. 
+It calculates each student's total and average using basic Python concepts.
