@@ -7,7 +7,7 @@ Compare energy use before and after a conservation effort, then calculate the en
 1. Read energy use before and after conservation.
 2. Validate the entered values.
 3. Identify when energy use increased.
-4. Calculate and display the amount and percentage saved when usage does not increase.
+4. Calculate and display the amount and percentage saved when usage does not increase
 
 ## Assumptions
 - Energy values are entered as numeric units.
