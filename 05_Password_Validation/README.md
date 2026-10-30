@@ -40,7 +40,8 @@ Check whether a password meets a basic policy: at least eight characters long, w
 - `assumptions.txt` — assumptions
 - `algorithm.txt` — step-by-step algorithm
 - `pseudocode.txt` — language-independent pseudocode
-- `flowchart.txt` — text-based flowchart
+- `flowchart.md` — diagrammatic flowchart with standard flowchart symbols and arrows (GitHub renders the diagram)
+- `flowchart.txt` — text version of the flowchart
 - `test_cases.txt` — sample test inputs and expected results
 - `output/run_screenshot.svg` — illustrative sample-output graphic
 
