@@ -7,7 +7,7 @@ Display a number pattern with the requested number of rows. Each row begins at 1
 1. Read the number of rows.
 2. Validate that the row count is between 1 and 9.
 3. Use nested loops to print the numeric pattern.
-4. Display an error message for an invalid row count.
+4. Display an error message for an invalid row count
 
 ## Assumptions
 - The number of rows must be a whole number from 1 to 9, inclusive.
