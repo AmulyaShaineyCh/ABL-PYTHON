@@ -8,7 +8,7 @@ Check whether a password meets a basic policy: at least eight characters long, w
 2. Check its length.
 3. Check whether it contains a digit.
 4. Check whether it contains an uppercase letter.
-5. Display the result and any missing requirements.
+5. Display the result and any missing requirements
 
 ## Assumptions
 - The password is entered as text.
