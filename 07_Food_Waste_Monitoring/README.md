@@ -7,7 +7,7 @@ Record food waste in kilograms for five weekdays, calculate the total and daily 
 1. Read food waste for Monday through Friday.
 2. Calculate total food waste.
 3. Calculate average daily waste.
-4. Display a suggestion based on whether the total exceeds 10 kg.
+4. Display a suggestion based on whether the total exceeds 10 kg
 
 ## Assumptions
 - The user enters a numeric waste amount for each weekday.
